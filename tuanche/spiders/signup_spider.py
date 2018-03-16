@@ -55,7 +55,7 @@ class SignupSpider(scrapy.Spider):
         if next_pages.xpath('text()')[-1].extract() == u"下一页":
 
             self.log("next_num %s" % self.next_num)
-            if self.next_num < 10:
+            if self.next_num < 60:
 
                 self.next_num +=1
                 next_page = next_pages.xpath('@href')[-1].extract()
