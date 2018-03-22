@@ -15,3 +15,6 @@
 完善pymsql 存储
 
 实现matplotlib 图表分析
+
+# 运行步骤
+scrapy crawl signup_spider
