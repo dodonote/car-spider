@@ -16,5 +16,13 @@
 
 实现matplotlib 图表分析
 
+#目录
+tuanche
+	spiders
+	items.py
+	middlewares.py
+	pipelines.py
+	setting.py
+
 # 运行步骤
 scrapy crawl signup_spider
