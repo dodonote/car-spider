@@ -19,6 +19,10 @@
 #目录
 tuanche
 	spiders
+		_init_.py
+		signup.py
+		signup_spider.py
+
 	items.py
 	middlewares.py
 	pipelines.py
