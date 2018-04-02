@@ -19,6 +19,7 @@
 #目录
 tuanche
 	spiders
+
 		_init_.py
 		signup.py
 		signup_spider.py
@@ -30,3 +31,8 @@ tuanche
 
 # 运行步骤
 scrapy crawl signup_spider
+
+### screenshots
+
+  ![demo](pic/signupOfDay.png)
+
