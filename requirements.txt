@@ -1,0 +1,4 @@
+scrapy==1.4.0
+numpy==1.14.1
+matplotlib==2.2.0
+pymysql==0.7.11
