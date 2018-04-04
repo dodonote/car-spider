@@ -8,16 +8,16 @@
 
 # 工作笔记
 
-完善项目目录
+>完善项目目录
 
-增加 signup_spider
+>增加 signup_spider
 
-完善pymsql 存储
+>完善pymsql 存储
 
-实现matplotlib 图表分析
+>实现matplotlib 图表分析
 
 #目录
-tuanche
+>tuanche
 	spiders
 
 		_init_.py
@@ -29,7 +29,10 @@ tuanche
 	pipelines.py
 	setting.py
 
-# 运行步骤
+#运行步骤
+
+----------
+
 scrapy crawl signup_spider
 
 ### screenshots
