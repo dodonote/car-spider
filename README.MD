@@ -6,6 +6,16 @@
 
 # 3.添加 matplotlib 进行每日报名信息图表统计
 
+----------
+#应用库
+>scrapy
+
+>numpy
+
+>matplotlib
+
+>pymysql
+
 # 工作笔记
 
 >完善项目目录
